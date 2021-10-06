@@ -1,5 +1,4 @@
 # JDK 문서 참조로 자바 API 사용해보기
-## (There are images in the images_java.git)
 
 
 ### JDK 문서란 자바에서 기본적으로 제공해주는 함수 도서관을 의미한다. library
